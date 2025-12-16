@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UdemyEFCore\\UdemyEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\dal\\dbcontextinitialzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\dal\\dbcontextinitialzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\Program.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
+              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:47:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContextinitialzer.cs",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
+              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
+              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:05:52.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:27:14.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
