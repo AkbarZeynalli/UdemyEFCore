@@ -1,18 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UdemyEFCore\\UdemyEFCore\\",
+  "WorkspaceRootPath": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\dal\\dbcontextinitialzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\dal\\dbcontextinitialzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9092FCFE-37D8-4C78-92DA-46F1F9168458}|..\\UdemyEFCoreDatabaseFirstByScaffold\\UdemyEFCoreDatabaseFirstByScaffold.csproj|d:\\udemyefcore\\udemyefcoredatabasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
-              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\Program.cs",
-              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
-              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAASwA8AAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
+              "RelativeToolTip": "..\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T21:47:15.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbContextinitialzer.cs",
-              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
-              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
-              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
-              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\DAL\\DbContextinitialzer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T21:05:52.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T20:27:14.909Z",
+              "WhenOpened": "2025-12-16T22:58:42.867Z",
               "EditorCaption": ""
             }
           ]

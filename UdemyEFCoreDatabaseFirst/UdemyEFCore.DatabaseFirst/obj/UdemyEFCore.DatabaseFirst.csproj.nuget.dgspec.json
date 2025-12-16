@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj": {}
+    "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj": {}
   },
   "projects": {
-    "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj": {
+    "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj",
+        "projectUniqueName": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj",
         "projectName": "UdemyEFCore.DatabaseFirst",
-        "projectPath": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj",
+        "projectPath": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\obj\\",
+        "outputPath": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\UdemyEFCore.DatabaseFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
