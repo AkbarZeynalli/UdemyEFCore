@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\UdemyEFCore\\UdemyEFCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|d:\\udemyefcore\\udemyefcore\\udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68D6F5E8-B648-4CB4-96B0-0B015C8D56DE}|UdemyEFCore.DatabaseFirst\\UdemyEFCore.DatabaseFirst.csproj|solutionrelative:udemyefcore.databasefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 279,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
               "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\Program.cs",
               "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\Program.cs",
               "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T20:39:42.24Z",
+              "WhenOpened": "2025-12-16T20:07:36.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore\\UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "UdemyEFCore.DatabaseFirst\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T20:04:12.832Z",
               "EditorCaption": ""
             }
           ]
