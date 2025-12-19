@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9092FCFE-37D8-4C78-92DA-46F1F9168458}|..\\UdemyEFCoreDatabaseFirstByScaffold\\UdemyEFCoreDatabaseFirstByScaffold.csproj|d:\\udemyefcore\\udemyefcoredatabasefirstbyscaffold\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0095C42-584F-4923-8D23-776FB6E13096}|..\\UdemyEFCore.CodeFirst\\UdemyEFCore.CodeFirst.csproj|d:\\udemyefcore\\udemyefcore.codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
-              "RelativeDocumentMoniker": "..\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
-              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
-              "RelativeToolTip": "..\\UdemyEFCoreDatabaseFirstByScaffold\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\UdemyEFCore\\UdemyEFCore.CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UdemyEFCore.CodeFirst\\Program.cs",
+              "ToolTip": "D:\\UdemyEFCore\\UdemyEFCore.CodeFirst\\Program.cs",
+              "RelativeToolTip": "..\\UdemyEFCore.CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T22:58:42.867Z",
+              "WhenOpened": "2025-12-18T20:05:22.241Z",
               "EditorCaption": ""
             }
           ]
