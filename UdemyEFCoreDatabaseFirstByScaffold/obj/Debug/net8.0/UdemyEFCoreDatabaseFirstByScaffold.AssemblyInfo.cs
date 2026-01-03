@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UdemyEFCoreDatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71583b8b57b51e2db33416371f86a6fae0bdb733")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6beefc53491b45f8af7afbac11beb4816efe0a0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UdemyEFCoreDatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UdemyEFCoreDatabaseFirstByScaffold")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
